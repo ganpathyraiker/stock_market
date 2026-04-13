@@ -2,6 +2,10 @@
 
 ## general info
 
+#### Important analytics to infer if the NSE / BSE will uptrend or downtrend:
+[CHECK FII's SELLING / BUYING](https://www.fpi.nsdl.co.in/web/Reports/Latest.aspx)
+[CHEK GILT NIFTY RANGE](https://www.moneycontrol.com/live-index/gift-nifty?symbol=in;gsx)
+
 prompts
 ![IMG_2779](https://github.com/user-attachments/assets/3ec6fe6e-b474-40d3-8897-8dbb47e4755a)
 ![IMG_2775](https://github.com/user-attachments/assets/578b3656-dad0-405d-a9b9-ae3764d009ad)
