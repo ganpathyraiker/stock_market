@@ -5,6 +5,8 @@
 #### Important analytics to infer if the NSE / BSE will uptrend or downtrend:
 [CHECK IF FII SELLING OR BUYING](https://www.fpi.nsdl.co.in/web/Reports/Latest.aspx)  
 [CHECK THE GILT NIFTY RANGE](https://www.moneycontrol.com/live-index/gift-nifty?symbol=in;gsx)  
+CHECK THE GOOGLE BRENT CRUDE OIL PRICE
+CHECK THE INR - DOLLAR TO VERIFY DEPRECIATION K
 
 
 prompts
