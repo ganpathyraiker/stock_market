@@ -6,11 +6,22 @@
 - CHECK THE GOOGLE BRENT CRUDE OIL PRICE
 - CHECK THE INR - DOLLAR, TO VERIFY ₹ DEPRECIATION
 
+- Track market fear, watch india vix scale: < 15 = calm and > 20 = fear
+- Track oil, watch brent crude oil index
+- Track economic growth, watch India PMI < 50 = contractions and > 50 = expansion
+- Track inflation, watch CPI consumer price index
+- Track interest rates, watch 10 year G-SEC %
+- Track india stock, watch nifty 50
+- Track banking health, watch nifty bank
+- Track currency, watch USD, INR
+- Track forign money, watch flow of FII&DII on nse
+
+
 #### facts
 - Rupee depriciation meaning businesses exporting in dollars like IT may say dip in price.
 - Check ROE & ROCE for better earning of company
 - Check PE to see if stock trading for premium / cheap price
-- Compare intrinsic price to current price to see actual price of stock 
+- Compare intrinsic price to current price to see actual price of stock
 
 #### Prompts
 ![IMG_2779](https://github.com/user-attachments/assets/3ec6fe6e-b474-40d3-8897-8dbb47e4755a)
