@@ -1,15 +1,18 @@
-# stock_market
-
-## general info
+# Stock market - India
 
 #### Important analytics to infer if the NSE / BSE will uptrend or downtrend:
-[CHECK IF FII SELLING OR BUYING](https://www.fpi.nsdl.co.in/web/Reports/Latest.aspx)  
-[CHECK THE GILT NIFTY RANGE](https://www.moneycontrol.com/live-index/gift-nifty?symbol=in;gsx)  
-CHECK THE GOOGLE BRENT CRUDE OIL PRICE
-CHECK THE INR - DOLLAR TO VERIFY DEPRECIATION K
+- [CHECK IF FII SELLING OR BUYING](https://www.fpi.nsdl.co.in/web/Reports/Latest.aspx)  
+- [CHECK THE GILT NIFTY RANGE](https://www.moneycontrol.com/live-index/gift-nifty?symbol=in;gsx)  
+- CHECK THE GOOGLE BRENT CRUDE OIL PRICE
+- CHECK THE INR - DOLLAR, TO VERIFY ₹ DEPRECIATION
 
+#### facts
+- Rupee depriciation meaning businesses exporting in dollars like IT may say dip in price.
+- Check ROE & ROCE for better earning of company
+- Check PE to see if stock trading for premium / cheap price
+- Compare intrinsic price to current price to see actual price of stock 
 
-prompts
+#### Prompts
 ![IMG_2779](https://github.com/user-attachments/assets/3ec6fe6e-b474-40d3-8897-8dbb47e4755a)
 ![IMG_2775](https://github.com/user-attachments/assets/578b3656-dad0-405d-a9b9-ae3764d009ad)
 ![IMG_2778](https://github.com/user-attachments/assets/de83e1e2-6fb4-48d1-8650-0a1824a80104)
