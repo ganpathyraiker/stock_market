@@ -15,6 +15,7 @@
 - Track banking health, watch nifty bank
 - Track currency, watch USD, INR
 - Track forign money, watch flow of FII&DII on nse
+- [Realtime maritime traffic](https://www.marinetraffic.com/en/ais/home/centerx:60.0/centery:24.9/zoom:6)
 
 
 #### facts
