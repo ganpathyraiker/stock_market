@@ -24,6 +24,14 @@
 - Check PE to see if stock trading for premium / cheap price
 - Compare intrinsic price to current price to see actual price of stock
 
+#### How quarters a FY
+| Quater | Month | Phase |
+| --- | --- | --- |
+| Q1 | April - June | Start of business cycle |
+| Q2 | July - September | Momentum building |
+| Q3 | Ovtober - December | Festive / peak demand (for many sectors) |
+| Q4 | January - March | Year-end push + accounting adjustments |
+
 #### Prompts
 ![IMG_2779](https://github.com/user-attachments/assets/3ec6fe6e-b474-40d3-8897-8dbb47e4755a)
 ![IMG_2775](https://github.com/user-attachments/assets/578b3656-dad0-405d-a9b9-ae3764d009ad)
