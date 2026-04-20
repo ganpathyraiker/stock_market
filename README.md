@@ -18,13 +18,13 @@
 - [Realtime maritime traffic](https://www.marinetraffic.com/en/ais/home/centerx:60.0/centery:24.9/zoom:6)
 
 
-#### facts
+#### Facts
 - Rupee depriciation meaning businesses exporting in dollars like IT may say dip in price.
 - Check ROE & ROCE for better earning of company
 - Check PE to see if stock trading for premium / cheap price
 - Compare intrinsic price to current price to see actual price of stock
 
-#### How quarters a FY
+#### How many quarters a Financial Year
 | Quater | Month | Phase |
 | --- | --- | --- |
 | Q1 | April - June | Start of business cycle |
